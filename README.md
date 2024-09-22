@@ -28,7 +28,7 @@ Proje ile ilgili daha fazla bilgi için [bu dökümana](pusula.pdf) göz atabili
  - 2- Google Colab'de veri setini "Files" kısmına yükleyin.
  - 3- Tüm hücreleri çalıştırın. Kod, veri yükleme, keşifsel veri analizi (EDA), veri ön işleme ve modelleme aşamalarını içerir.
 
-- **Projeden Bazı Görselleştirmeler**
+ ## Projeden Bazı Görselleştirmeler
 - Aykırı Değer - Boxplot
  ![aykırı değer](Aykırı_Değer_Boxplotu.png)
 - Korelasyon (Isı Haritası)
