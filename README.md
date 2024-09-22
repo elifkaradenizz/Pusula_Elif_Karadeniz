@@ -19,7 +19,7 @@ Bu projeyi çalıştırmak için aşağıdaki Python kütüphanelerine ihtiyacı
 - Veri ön işleme aşamasında, öncelikle iki yeni özellik oluşturulmuştur: İlaç kullanım süresi, başlangıç ve bitiş tarihleri kullanılarak hesaplanmış, ve kilo ile boy verilerinden BMI (Vücut Kitle İndeksi) çıkarılmıştır. Bu yeni özellikler, kullanıcıların sağlık durumlarıyla ilişkilerini analiz etmek amacıyla eklenmiştir. Eksik veriler, özellikle demografik ve sağlık verilerini içeren sütunlardan temizlenmiştir. Tarih sütunları datetime formatına dönüştürülüp, sayısal hale getirilerek analiz ve modellemeye uygun hale getirilmiştir. Kategorik veriler, label encoding ile sayısallaştırılmıştır. Veriler arasındaki ölçek farklılıklarını gidermek için StandardScaler kullanılarak sayısal veriler standartlaştırılmıştır. Aykırı değerler Z-Score yöntemiyle belirlenmiş ve Boxplot ile görselleştirilmiştir;  bu sayede aykırı değerlerin olmadığından emin olunmuştur. Son olarak, korelasyon matrisiyle değişkenler arasındaki ilişkiler analiz edilmiştir.
  
 - **Proje Dökümanı**
-Proje ile ilgili daha fazla bilgi için [bu dökümana](pusula.pdf) göz atabilirsiniz.
+Proje ile ilgili daha fazla bilgi için [bu dökümana](Pusula.pdf) göz atabilirsiniz.
 
 - **Kodun Nasıl Çalıştırılacağına Dair Talimatlar**
 - Kodu Google Colab ortamına yükleyip veri setini de aynı şekilde dosyalar kısmına upload ederek kodu çalıştırabilirsiniz. Bu aşama aşağıda görüldüğü gibidir:
