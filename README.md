@@ -23,10 +23,10 @@ Proje ile ilgili daha fazla bilgi için [bu dökümana](pusula.pdf) göz atabili
 
 - **Kodun Nasıl Çalıştırılacağına Dair Talimatlar**
 - Kodu Google Colab ortamına yükleyip veri setini de aynı şekilde dosyalar kısmına upload ederek kodu çalıştırabilirsiniz. Bu aşama aşağıda görüldüğü gibidir:
-- [bu aşama](pusula.png)
- 1- Google Colab'e giriş yapın ve proje dosyasını yükleyin.
- 2- Google Colab'de veri setini "Files" kısmına yükleyin.
- 3- Tüm hücreleri çalıştırın. Kod, veri yükleme, keşifsel veri analizi (EDA), veri ön işleme ve modelleme aşamalarını içerir.
+ ![Bu aşama](pusula.png) 
+ - 1- Google Colab'e giriş yapın ve proje dosyasını yükleyin.
+ - 2- Google Colab'de veri setini "Files" kısmına yükleyin.
+ - 3- Tüm hücreleri çalıştırın. Kod, veri yükleme, keşifsel veri analizi (EDA), veri ön işleme ve modelleme aşamalarını içerir.
 
 - **Projeden Bazı Görselleştirmeler**
 - Aykırı Değer - Boxplot
