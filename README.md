@@ -21,7 +21,7 @@ Bu projeyi çalıştırmak için aşağıdaki Python kütüphanelerine ihtiyacı
 - **Proje Dökümanı**
 Proje ile ilgili daha fazla bilgi için [bu dökümana](Pusula.pdf) göz atabilirsiniz.
 
-- **Kodun Nasıl Çalıştırılacağına Dair Talimatlar**
+## Kodun Nasıl Çalıştırılacağına Dair Talimatlar
 - Kodu Google Colab ortamına yükleyip veri setini de aynı şekilde dosyalar kısmına upload ederek kodu çalıştırabilirsiniz. Bu aşama aşağıda görüldüğü gibidir:
  ![Bu aşama](pusula.png) 
  - 1- Google Colab'e giriş yapın ve proje dosyasını yükleyin.
