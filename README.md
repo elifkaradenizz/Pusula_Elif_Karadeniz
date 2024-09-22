@@ -30,6 +30,6 @@ Proje ile ilgili daha fazla bilgi için [bu dökümana](pusula.pdf) göz atabili
 
 - **Projeden Bazı Görselleştirmeler**
 - Aykırı Değer - Boxplot
-  [aykırı değer](Aykırı_Değer_Boxplotu.png)
+ ![aykırı değer](Aykırı_Değer_Boxplotu.png)
 - Korelasyon (Isı Haritası)
-  [korelasyon](Korelasyon.png)
+ ![korelasyon](Korelasyon.png)
