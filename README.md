@@ -26,7 +26,7 @@ Proje ile ilgili daha fazla bilgi için [bu dökümana](Pusula.pdf) göz atabili
  ![Bu aşama](pusula.png) 
  - 1- Google Colab'e giriş yapın ve proje dosyasını yükleyin.
  - 2- Google Colab'de veri setini "Files" kısmına yükleyin.
- - 3- Tüm hücreleri çalıştırın. Kod, veri yükleme, keşifsel veri analizi (EDA), ve veri ön işleme aşamalarını içerir.
+ - 3- Tüm hücreleri çalıştırın. Kod, veri yükleme, keşifsel veri analizi (EDA) ve veri ön işleme aşamalarını içerir.
 
  ## Projeden Bazı Görselleştirmeler
 - Aykırı Değer - Boxplot
